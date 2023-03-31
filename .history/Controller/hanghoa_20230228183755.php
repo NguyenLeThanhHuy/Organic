@@ -1,0 +1,3 @@
+<?php
+    $act = 'hanghoa'
+?>
